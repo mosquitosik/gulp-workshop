@@ -2,7 +2,9 @@
 var GulpConfig = (function(){
   function GulpConfig(argument) {
     this.vendors = {
-      js:      ['./bower_components/bootstrap/dist/js/bootstrap.js'],
+      js:      ['./bower_components/bootstrap/dist/js/bootstrap.js',
+                './bower_components/angular/angular.js'
+              ],
       css:     ['./bower_components/bootstrap/dist/css/bootstrap.css'],
     };
 
