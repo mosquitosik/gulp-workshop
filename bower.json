@@ -1,0 +1,27 @@
+{
+  "name": "gulp-workshop",
+  "description": "Learn npm BIONIC",
+  "main": "app.js",
+  "authors": [
+    "mosq"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "mosq"
+  ],
+  "homepage": "https://github.com/mosquitosik/gulp-workshop",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

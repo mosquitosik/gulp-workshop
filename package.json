@@ -1,0 +1,25 @@
+{
+  "name": "gulp-workshop",
+  "version": "1.0.0",
+  "description": "Learn npm BIONIC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosquitosik/gulp-workshop.git"
+  },
+  "keywords": [
+    "mosq"
+  ],
+  "author": "mosq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosquitosik/gulp-workshop/issues"
+  },
+  "homepage": "https://github.com/mosquitosik/gulp-workshop#readme",
+  "devDependencies": {
+    "bower": "^1.7.1"
+  }
+}
