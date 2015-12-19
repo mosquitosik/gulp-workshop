@@ -4,6 +4,8 @@
   "description": "Learn npm BIONIC",
   "main": "app.js",
   "scripts": {
+    "prestart": "npm install && bower i",
+    "start": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
